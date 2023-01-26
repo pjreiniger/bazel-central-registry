@@ -1,0 +1,11 @@
+{
+    "homepage": "",
+    "maintainers": [],
+    "repository": [
+        "github:bzlmodRio/rules_bazelrio"
+    ],
+    "versions": [
+        "0.0.9"
+    ],
+    "yanked_versions": {}
+}

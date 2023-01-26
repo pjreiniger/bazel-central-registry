@@ -1,0 +1,5 @@
+{
+    "url": "https://github.com/bzlmodRio/rules_bazelrio/archive/refs/tags/0.0.9.tar.gz",
+    "integrity": "sha256-hnnPLvG0fBhNM2v++XrA+Y/tVlRraeGl7QLBeDO78CU=",
+    "strip_prefix": "rules_bazelrio-0.0.9"
+}
