@@ -1,0 +1,11 @@
+{
+    "homepage": "",
+    "maintainers": [],
+    "repository": [
+        "github:bzlmodRio/rules_roborio_toolchain"
+    ],
+    "versions": [
+        "2022-1"
+    ],
+    "yanked_versions": {}
+}
