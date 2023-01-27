@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/bzlmodRio/bzlmodrio-apriltaglib/archive/refs/tags/3.2.0-3.tar.gz",
+    "integrity": "sha256-/3P6Z4KJcEmpxwe2bCrE1JQqe0yfz9qJjREZPGJh3y8=",
+    "strip_prefix": "bzlmodRio-apriltaglib-3.2.0-3",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-IWbpXfJJ2Ejg1YGTKFhipsZzPIP6J1P+8zjgok2mheo="
+    }
+}
