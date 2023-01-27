@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/bzlmodRio/bzlmodrio/archive/refs/tags/2022.1.tar.gz",
+    "integrity": "sha256-DCQ/l9yIiPLXMJzUligMGVxYpcdYV4cBCBgmn7lbGOg=",
+    "strip_prefix": "bzlmodRio-2022.1",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-mwG766rBKjisyiMw43QEJe7OOuo2gZii8529CTQSwS0="
+    }
+}
