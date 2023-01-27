@@ -5,7 +5,8 @@
         "github:bzlmodRio/bzlmodrio-ni"
     ],
     "versions": [
-        "2022.4.0"
+        "2022.4.0",
+        "2023.3.0"
     ],
     "yanked_versions": {}
 }

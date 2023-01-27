@@ -5,7 +5,8 @@
         "github:bzlmodRio/bzlmodrio-opencv"
     ],
     "versions": [
-        "4.5.2-1"
+        "4.5.2-1",
+        "4.6.0-4"
     ],
     "yanked_versions": {}
 }
