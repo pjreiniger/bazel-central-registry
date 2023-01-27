@@ -2,11 +2,10 @@
     "homepage": "",
     "maintainers": [],
     "repository": [
-        "github:bzlmodRio/bzlmodrio-allwpilib"
+        "github:bzlmodRio/bzlmodrio-libssh"
     ],
     "versions": [
-        "2022.3.1",
-        "2022.4.1"
+        "0.95-1"
     ],
     "yanked_versions": {}
 }
