@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/bzlmodRio/bzlmodrio-navx/archive/refs/tags/4.0.447.tar.gz",
+    "integrity": "sha256-JCIkJjdWDImyDxIgDZHzefAnOSMnVU+1drjXPKq2GA0=",
+    "strip_prefix": "bzlmodRio-navx-4.0.447",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-j5bLEMSKZRfR7MYqnR1DrqPmmMhnzWnVuHdR1B7bWWQ="
+    }
+}

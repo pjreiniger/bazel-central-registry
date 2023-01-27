@@ -1,0 +1,11 @@
+--- MODULE.bazel
++++ MODULE.bazel
+@@ -1,7 +1,7 @@
+ module(
+     name = "bzlmodrio-navx",
+     version = "4.0.447",
+-    compatibility_level = 2023,
++    compatibility_level = 2022,
+ )
+ 
+ bazel_dep(name = "platforms", version = "0.0.4")
