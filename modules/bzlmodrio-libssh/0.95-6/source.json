@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/bzlmodRio/bzlmodrio-libssh/archive/refs/tags/0.95-6.tar.gz",
+    "integrity": "sha256-YEjwrgwFO+zF9yVvnntEXJ2MAI/DQjj0vRnNItXnj/o=",
+    "strip_prefix": "bzlmodRio-libssh-0.95-6",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-Isju75V+9Mz5UT0ANMIwt9SSFwOZbnT3KBeE6X3e0Uo="
+    }
+}
