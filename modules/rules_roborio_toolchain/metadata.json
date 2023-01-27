@@ -5,7 +5,8 @@
         "github:bzlmodRio/rules_roborio_toolchain"
     ],
     "versions": [
-        "2022-1"
+        "2022-1",
+        "2023-7"
     ],
     "yanked_versions": {}
 }
