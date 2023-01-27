@@ -18,8 +18,3 @@ use_repo(
     "bazelrio_edu_wpi_first_thirdparty_frc_libssh_windowsx86-64static",
     "bazelrio_edu_wpi_first_thirdparty_frc_libssh_windowsx86static",
 )
-
-setup_bzlmodrio_libssh_java_dependencies = use_extension("//:maven_java_deps.bzl", "setup_bzlmodrio_libssh_java_dependencies")
-use_repo(
-    setup_bzlmodrio_libssh_java_dependencies,
-)

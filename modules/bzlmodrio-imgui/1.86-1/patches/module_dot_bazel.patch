@@ -1,0 +1,11 @@
+--- MODULE.bazel
++++ MODULE.bazel
+@@ -18,3 +18,8 @@
+     "bazelrio_edu_wpi_first_thirdparty_frc_imgui_windowsx86-64static",
+     "bazelrio_edu_wpi_first_thirdparty_frc_imgui_windowsx86static",
+ )
++
++setup_bzlmodrio_imgui_java_dependencies = use_extension("//:maven_java_deps.bzl", "setup_bzlmodrio_imgui_java_dependencies")
++use_repo(
++    setup_bzlmodrio_imgui_java_dependencies,
++)

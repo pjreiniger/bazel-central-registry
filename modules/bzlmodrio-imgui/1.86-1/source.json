@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/bzlmodRio/bzlmodrio-imgui/archive/refs/tags/1.86-1.tar.gz",
+    "integrity": "sha256-tDQejeuTps5jY7ku9eWHBjLmrX2NMQ1/j4UX9UWQric=",
+    "strip_prefix": "bzlmodRio-imgui-1.86-1",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-Y+7X9bVyRPeiEMNrdrlGx/6H9rb/DoFBovZtSeHSfkg="
+    }
+}
