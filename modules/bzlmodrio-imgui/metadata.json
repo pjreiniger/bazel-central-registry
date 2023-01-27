@@ -5,7 +5,8 @@
         "github:bzlmodRio/bzlmodrio-imgui"
     ],
     "versions": [
-        "1.86-1"
+        "1.86-1",
+        "1.89.1-1"
     ],
     "yanked_versions": {}
 }
