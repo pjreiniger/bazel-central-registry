@@ -8,5 +8,7 @@
         "2022-1",
         "2023-7"
     ],
-    "yanked_versions": {}
+    "yanked_versions": {
+        "2023-7": "Use rules_bzlmodrio_toolchains instaead"
+    }
 }
