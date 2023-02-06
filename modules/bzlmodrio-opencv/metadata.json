@@ -6,7 +6,10 @@
     ],
     "versions": [
         "4.5.2-1",
-        "4.6.0-4"
+        "4.6.0-4",
+        "4.6.0-4-1"
     ],
-    "yanked_versions": {}
+    "yanked_versions": {
+        "4.6.0-4": "Use 4.6.0-4-1 instead to get more toolchains"
+    }
 }

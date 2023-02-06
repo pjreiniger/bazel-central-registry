@@ -1,0 +1,11 @@
+--- MODULE.bazel
++++ MODULE.bazel
+@@ -20,8 +20,3 @@
+     "bazelrio_edu_wpi_first_ni-libraries_visa_headers",
+     "bazelrio_edu_wpi_first_ni-libraries_visa_linuxathena",
+ )
+-
+-setup_bzlmodrio_ni_java_dependencies = use_extension("//:maven_java_deps.bzl", "setup_bzlmodrio_ni_java_dependencies")
+-use_repo(
+-    setup_bzlmodrio_ni_java_dependencies,
+-)
