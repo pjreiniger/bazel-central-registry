@@ -1,0 +1,9 @@
+{
+    "url": "https://github.com/bzlmodRio/bzlmodrio-allwpilib/archive/refs/tags/2023.2.1-1.tar.gz",
+    "integrity": "sha256-RCHsLvTkkEr2MufzjG4P4bf+X9bRCVV1mybnbXZVHVU=",
+    "strip_prefix": "bzlmodRio-allwpilib-2023.2.1-1",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-9J7JPas9ttgbEU8lpwZG1RsY1RBToak5S/Tj5EIYEmU="
+    }
+}
