@@ -1,0 +1,5 @@
+{
+    "url": "https://github.com/bzlmodRio/rules_wpiformat/archive/refs/tags/2022.30.tar.gz",
+    "integrity": "sha256-2Otf9VzBGk3aEF0Ml0V7zul7OmNGv93zLFKMpjLDVq4=",
+    "strip_prefix": "rules_wpiformat-2022.30"
+}

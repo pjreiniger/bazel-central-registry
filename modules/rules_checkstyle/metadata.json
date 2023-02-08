@@ -1,0 +1,11 @@
+{
+    "homepage": "",
+    "maintainers": [],
+    "repository": [
+        "github:bzlmodRio/rules_checkstyle"
+    ],
+    "versions": [
+        "10.1"
+    ],
+    "yanked_versions": {}
+}

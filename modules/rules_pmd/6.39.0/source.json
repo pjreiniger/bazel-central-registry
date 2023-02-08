@@ -1,0 +1,5 @@
+{
+    "url": "https://github.com/bzlmodRio/rules_pmd/archive/refs/tags/6.39.0.tar.gz",
+    "integrity": "sha256-YAfPGeVcsG70/0kz6FeoM/B5pX74m3YDsMFo9GykANQ=",
+    "strip_prefix": "rules_pmd-6.39.0"
+}
