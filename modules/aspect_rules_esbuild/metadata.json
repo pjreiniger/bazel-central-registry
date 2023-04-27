@@ -11,7 +11,9 @@
         "github:aspect-build/rules_esbuild"
     ],
     "versions": [
-        "0.14.0"
+        "0.14.0",
+        "0.14.3",
+        "0.14.4"
     ],
     "yanked_versions": {}
 }
