@@ -5,7 +5,8 @@
         "github:bzlmodRio/rules_pmd"
     ],
     "versions": [
-        "6.39.0"
+        "6.39.0",
+        "6.43.0"
     ],
     "yanked_versions": {}
 }
