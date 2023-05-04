@@ -1,6 +1,7 @@
 module(
     name = "rules_checkstyle",
     version = "10.1",
+    compatibility_level = 1,
 )
 
 bazel_dep(name = "rules_java", version = "5.3.5")

@@ -1,5 +1,5 @@
 {
     "url": "https://github.com/bzlmodRio/rules_checkstyle/archive/refs/tags/10.1.tar.gz",
-    "integrity": "sha256-ya1khpO3ITeyfidHic350fS3sL3roeqEpXK0KsXjqsc=",
+    "integrity": "sha256-3BKC13vtV2xKJyCzDqlmRCGjtxq0mCfTzmdZkX38hWc=",
     "strip_prefix": "rules_checkstyle-10.1"
 }
