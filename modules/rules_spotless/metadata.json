@@ -1,0 +1,11 @@
+{
+    "homepage": "",
+    "maintainers": [],
+    "repository": [
+        "github:bzlmodRio/rules_spotless"
+    ],
+    "versions": [
+        "2.34.0"
+    ],
+    "yanked_versions": {}
+}
