@@ -1,0 +1,11 @@
+{
+    "homepage": "",
+    "maintainers": [],
+    "repository": [
+        "github:bzlmodRio/rules_pmd"
+    ],
+    "versions": [
+        "6.43.0"
+    ],
+    "yanked_versions": {}
+}
