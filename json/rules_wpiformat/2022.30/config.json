@@ -1,0 +1,17 @@
+{
+    "build_file": null,
+    "build_targets": [],
+    "compatibility_level": "1",
+    "deps": [],
+    "module_dot_bazel": "/home/runner/work/rules_wpiformat/rules_wpiformat/rules/rules_wpiformat/generate/../../../bazel-central-registry/json/rules_wpiformat/2022.30/MODULE.bazel",
+    "name": "rules_wpiformat",
+    "patch_strip": 0,
+    "patches": [],
+    "presubmit_yml": null,
+    "strip_prefix": "",
+    "test_module_build_targets": [],
+    "test_module_path": "test",
+    "test_module_test_targets": [],
+    "url": "https://github.com/bzlmodRio/rules_wpiformat/releases/download/2022.30/rules_wpiformat-2022.30.tar.gz",
+    "version": "2022.30"
+}
