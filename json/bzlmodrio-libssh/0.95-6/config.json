@@ -1,0 +1,17 @@
+{
+    "build_file": null,
+    "build_targets": [],
+    "compatibility_level": "2023",
+    "deps": [],
+    "module_dot_bazel": "/home/runner/work/bzlmodRio-libssh/bzlmodRio-libssh/libraries/bzlmodrio-libssh/generate/../../../bazel-central-registry/json/bzlmodrio-libssh/0.95-6/MODULE.bazel",
+    "name": "bzlmodrio-libssh",
+    "patch_strip": 0,
+    "patches": [],
+    "presubmit_yml": null,
+    "strip_prefix": "",
+    "test_module_build_targets": [],
+    "test_module_path": "test",
+    "test_module_test_targets": [],
+    "url": "https://github.com/bzlmodRio/bzlmodrio-libssh/releases/download/0.95-6/bzlmodrio-libssh-0.95-6.tar.gz",
+    "version": "0.95-6"
+}
