@@ -1,4 +1,8 @@
 {
     "url": "https://github.com/bzlmodRio/rules_checkstyle/releases/download/10.1/rules_checkstyle-10.1.tar.gz",
-    "integrity": "sha256-lMVpbZlIzG13FoJi5mhF5B03hDgxRH3HF1WmhtVGw0Y="
+    "integrity": "sha256-CMgACb9uivbT4ui2STuGAS6kq1vw9ixSfVNVdVKgPXc=",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-1w+P9CliOroYqFegUhG/uBq2kycG61JSsrsepeys4n8="
+    }
 }
