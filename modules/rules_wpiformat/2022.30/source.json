@@ -1,4 +1,8 @@
 {
     "url": "https://github.com/bzlmodRio/rules_wpiformat/releases/download/2022.30/rules_wpiformat-2022.30.tar.gz",
-    "integrity": "sha256-taKlzf+UDk3NnQGI1Vec0mDS2WVxt0sIestwFhe9J60="
+    "integrity": "sha256-Pl7cFRao4u2wyJ1+nluQ9m5/tuwdzNjJuywSWJp0YXY=",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-z1NJQnzfhCsDZeXnEqXKVebu9M/KPEw48vgm50waUls="
+    }
 }
