@@ -1,4 +1,8 @@
 {
     "url": "https://github.com/bzlmodRio/rules_spotless/releases/download/2.34.0/rules_spotless-2.34.0.tar.gz",
-    "integrity": "sha256-mIZkNEo5rXkgMXp/RuG+qt4AhWtyO+QXK4kQ6zHO1SM="
+    "integrity": "sha256-0KSbDdHD56Tvt967HMOVhDReEL81SUzQUdDk6KTVQkE=",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-LvtfS1J0uqaqkleUh2IJXiZvAwirojC6MTgkXWuEHo8="
+    }
 }
