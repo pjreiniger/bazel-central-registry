@@ -5,7 +5,8 @@
         "github:bzlmodRio/bzlmodrio-libssh"
     ],
     "versions": [
-        "0.95-6"
+        "0.95-6",
+        "0.95-7"
     ],
     "yanked_versions": {}
 }
