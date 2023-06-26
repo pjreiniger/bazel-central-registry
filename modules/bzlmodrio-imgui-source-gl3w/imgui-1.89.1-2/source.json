@@ -3,7 +3,7 @@
     "integrity": "sha256-6WplCl+5UwtpoZ0275MYAXYs6c9bUctgfuEWuQijgKY=",
     "strip_prefix": "gl3w-5f8d7fd191ba22ff2b60c1106d7135bb9a335533",
     "patches": {
-        "add_build_file.patch": "sha256-k9aX+Ix/CVjeIouPpiao9EsPeSigEHj/TNQMcIUC/d0=",
+        "add_build_file.patch": "sha256-yyAkKvCt5r5p9q9sqQaFQIf0eIBSjfACN4/ijZoN6Es=",
         "module_dot_bazel.patch": "sha256-7RlZhdVpV/9tIGMqF68JziXLtqLlGfC2XJlt8C1NY60="
     },
     "patch_strip": 0

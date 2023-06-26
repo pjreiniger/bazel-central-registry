@@ -3,7 +3,7 @@
 @@ -0,0 +1,31 @@
 +py_binary(
 +    name = "gl3w_gen",
-+    srcs = ["@gl3w//:gl3w_gen.py"],
++    srcs = [":gl3w_gen.py"],
 +)
 +
 +genrule(
