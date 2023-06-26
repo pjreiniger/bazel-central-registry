@@ -10,4 +10,4 @@
 +
 +bazel_dep(name = "rules_bzlmodrio_toolchains", version = "2023-7")
 +
-+bazel_dep(name = "bzlmodrio-imgui-source-glfw", version = "1.89.1-2", repo_name="glfw")
++bazel_dep(name = "bzlmodrio-imgui-source-glfw", version = "imgui-1.89.1-2", repo_name="glfw")
