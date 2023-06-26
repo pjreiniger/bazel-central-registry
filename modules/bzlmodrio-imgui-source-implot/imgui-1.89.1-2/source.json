@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/epezent/implot/archive/e80e42e8b4136ddb84ccfe04fa28d0c745828952.zip",
+    "integrity": "sha256-J4+jN99hiDs22rxv6PYiQ9d2Smwm/ACu2tra6H4rALk=",
+    "strip_prefix": "implot-e80e42e8b4136ddb84ccfe04fa28d0c745828952",
+    "patches": {
+        "add_build_file.patch": "sha256-sBtXVyFPCdnKu8b2fHm9EiOxoBw401PR2uTVhlU2t9Y=",
+        "module_dot_bazel.patch": "sha256-6qt9NTUHJ5lG3bow+UXyARdTmPScNq+BN020UstEilw="
+    },
+    "patch_strip": 0
+}

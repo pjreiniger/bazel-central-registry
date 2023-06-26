@@ -54,8 +54,14 @@ def download(url):
   else:
     req = url
 
-  with urllib.request.urlopen(req) as response:
-    return response.read()
+  try:
+    with urllib.request.urlopen(req) as response:
+      return response.read()
+  except:
+    print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+    print(f"Could not get {url}")
+    print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
+    raise
 
 def download_file(url, file):
   with open(file, "wb") as f:

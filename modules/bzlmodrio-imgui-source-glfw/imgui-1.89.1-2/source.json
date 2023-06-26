@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/glfw/glfw/archive/6b57e08bb0078c9834889eab871bac2368198c15.zip",
+    "integrity": "sha256-nal74z1kJH7pHOV6tqSRDEo94quS/KfHRFk3unODPSE=",
+    "strip_prefix": "glfw-6b57e08bb0078c9834889eab871bac2368198c15",
+    "patches": {
+        "add_build_file.patch": "sha256-1lFhtMdedsqClk2XYyQgsnGxdxb0+02HOsLtpScgy9A=",
+        "module_dot_bazel.patch": "sha256-HvP/KUv66bIzPXYOhjNkzrB37qn8QmwY0AuJ60psKR0="
+    },
+    "patch_strip": 0
+}

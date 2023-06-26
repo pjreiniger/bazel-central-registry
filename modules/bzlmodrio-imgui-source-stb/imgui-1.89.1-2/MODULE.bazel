@@ -1,0 +1,5 @@
+module(
+    name = "bzlmodrio-imgui-source-stb",
+    version = "imgui-1.89.1-2",
+    compatibility_level = 2023,
+)

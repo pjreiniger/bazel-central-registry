@@ -1,0 +1,10 @@
+{
+    "url": "https://github.com/ocornut/imgui/archive/3ea0fad204e994d669f79ed29dcaf61cd5cb571d.zip",
+    "integrity": "sha256-Pjb2Aw6wkjesavpgGWeV5OApyUbOn8uoGc/st3dVrKw=",
+    "strip_prefix": "imgui-3ea0fad204e994d669f79ed29dcaf61cd5cb571d",
+    "patches": {
+        "add_build_file.patch": "sha256-nfGMkFqxe05Yxx40wHC2vaN3HSCEQsxYSH1NX4w6/tk=",
+        "module_dot_bazel.patch": "sha256-sJLgO7oaxKBTE4xPHJi7eauEs/EVMJh+WKikwZGoT/w="
+    },
+    "patch_strip": 0
+}
