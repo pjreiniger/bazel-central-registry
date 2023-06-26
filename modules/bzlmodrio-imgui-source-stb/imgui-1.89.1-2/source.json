@@ -4,7 +4,7 @@
     "strip_prefix": "stb-c9064e317699d2e495f36ba4f9ac037e88ee371a",
     "patches": {
         "add_build_file.patch": "sha256-b7N8GuIl2FXerg4rIxhBfObbmqnEda/PckpwB69pTEk=",
-        "module_dot_bazel.patch": "sha256-D5IstSyFEXkhEYM3di/eK+q9a+3qWZ/RMqgkVafVxuo="
+        "module_dot_bazel.patch": "sha256-7/GaZIBOZgSyruTUbjcDtuLKKiXG0Xl/fuvjPA4TEu8="
     },
     "patch_strip": 0
 }

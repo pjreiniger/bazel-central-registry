@@ -1,8 +1,11 @@
 --- MODULE.bazel
 +++ MODULE.bazel
-@@ -0,0 +1,5 @@
+@@ -0,0 +1,8 @@
 +module(
 +    name = "bzlmodrio-imgui-source-implot",
 +    version = "imgui-1.89.1-2",
 +    compatibility_level = 2023,
 +)
++
++
++bazel_dep(name = "rules_bzlmodrio_toolchains", version = "2023-7")

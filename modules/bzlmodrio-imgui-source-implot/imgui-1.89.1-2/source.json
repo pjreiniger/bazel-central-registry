@@ -4,7 +4,7 @@
     "strip_prefix": "implot-e80e42e8b4136ddb84ccfe04fa28d0c745828952",
     "patches": {
         "add_build_file.patch": "sha256-sBtXVyFPCdnKu8b2fHm9EiOxoBw401PR2uTVhlU2t9Y=",
-        "module_dot_bazel.patch": "sha256-6qt9NTUHJ5lG3bow+UXyARdTmPScNq+BN020UstEilw="
+        "module_dot_bazel.patch": "sha256-8RZym97LUmbJhFGhtInxhyE73dqy7ZmDAKHwrVKBkgs="
     },
     "patch_strip": 0
 }
