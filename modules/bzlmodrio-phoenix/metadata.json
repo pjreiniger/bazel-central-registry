@@ -5,7 +5,8 @@
         "github:bzlmodRio/bzlmodrio-phoenix"
     ],
     "versions": [
-        "5.30.4"
+        "5.30.4",
+        "5.31.0-23.2.2"
     ],
     "yanked_versions": {}
 }
