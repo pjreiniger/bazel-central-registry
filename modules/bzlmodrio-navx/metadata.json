@@ -5,7 +5,8 @@
         "github:bzlmodRio/bzlmodrio-navx"
     ],
     "versions": [
-        "2023.0.3"
+        "2023.0.3",
+        "2024.0.1-beta-2"
     ],
     "yanked_versions": {}
 }
