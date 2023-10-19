@@ -1,0 +1,10 @@
+--- MODULE.bazel
++++ MODULE.bazel
+@@ -1,6 +1,6 @@
+ module(
+     name = "bzlmodrio-imgui",
+-    version = "1.89.9-1",
++    version = "2024.1.89.9-1",
+     compatibility_level = 2024,
+ )
+ 
