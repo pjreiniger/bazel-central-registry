@@ -1,8 +1,4 @@
 {
-    "url": "https://github.com/bzlmodRio/bzlmodrio-opencv/releases/download/4.8.0-1/bzlmodrio-opencv-4.8.0-1.tar.gz",
-    "integrity": "sha256-NSAg39+/2OdIyhWO3Q3RHAsA3Ds0jaw1tKBYp8c/RI4=",
-    "patch_strip": 0,
-    "patches": {
-        "module_dot_bazel.patch": "sha256-H4V3OfP04kHJS/t+d+HP3BjrdKfeTRzPiDUsIlZ5/sE="
-    }
+    "url": "https://github.com/bzlmodRio/bzlmodrio-opencv/releases/download/2024.4.8.0-1/bzlmodrio-opencv-2024.4.8.0-1.tar.gz",
+    "integrity": "sha256-dhsVLvki5rs4a3mwaDD98IW5BdEy2WfDHTq08zuKg2Y="
 }

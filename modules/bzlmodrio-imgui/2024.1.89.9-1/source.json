@@ -1,8 +1,4 @@
 {
-    "url": "https://github.com/bzlmodRio/bzlmodrio-imgui/releases/download/1.89.9-1/bzlmodrio-imgui-1.89.9-1.tar.gz",
-    "integrity": "sha256-nThBsmfjwzz1LS+HNOxZ5wMwUJfCwLuzg8i5A/yWDqM=",
-    "patch_strip": 0,
-    "patches": {
-        "module_dot_bazel.patch": "sha256-jcfLp/gfqx8T8WQbcxz/zQy3uDhYYps+6GSdBjmNESU="
-    }
+    "url": "https://github.com/bzlmodRio/bzlmodrio-imgui/releases/download/2024.1.89.9-1/bzlmodrio-imgui-2024.1.89.9-1.tar.gz",
+    "integrity": "sha256-l0+fidtjeG6AE/aN9U8zoW08b/7FFli30qU67rZFQjQ="
 }
