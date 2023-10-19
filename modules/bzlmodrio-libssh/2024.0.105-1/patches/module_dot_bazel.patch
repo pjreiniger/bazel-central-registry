@@ -1,0 +1,10 @@
+--- MODULE.bazel
++++ MODULE.bazel
+@@ -1,6 +1,6 @@
+ module(
+     name = "bzlmodrio-libssh",
+-    version = "0.105-1",
++    version = "2024.0.105-1",
+     compatibility_level = 2024,
+ )
+ 
