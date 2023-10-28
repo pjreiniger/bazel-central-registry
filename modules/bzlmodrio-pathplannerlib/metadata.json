@@ -5,7 +5,8 @@
         "github:bzlmodRio/bzlmodrio-pathplannerlib"
     ],
     "versions": [
-        "2023.4.4"
+        "2023.4.4",
+        "2024.0.0-beta-3"
     ],
     "yanked_versions": {}
 }
