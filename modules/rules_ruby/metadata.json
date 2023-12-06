@@ -1,0 +1,18 @@
+{
+    "homepage": "https://github.com/bazel-contrib/rules_ruby",
+    "maintainers": [
+        {
+            "github": "p0deje",
+            "name": "Alex Rodionov"
+        }
+    ],
+    "repository": [
+        "github:bazel-contrib/rules_ruby"
+    ],
+    "versions": [
+        "0.2.0",
+        "0.3.0",
+        "0.4.1"
+    ],
+    "yanked_versions": {}
+}
