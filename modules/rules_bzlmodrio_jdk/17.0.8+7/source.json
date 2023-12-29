@@ -1,4 +1,8 @@
 {
     "url": "https://github.com/bzlmodRio/rules_bzlmodrio_jdk/releases/download/17.0.8+7/rules_bzlmodrio_jdk-17.0.8+7.tar.gz",
-    "integrity": "sha256-4//ZaX5ZcjkWXvLXXjUpVekq4+Kun/xW99KpasdW5Fc="
+    "integrity": "sha256-B2cwuOVxYULXFGn6sE9lJVmZ/7M9BkK4kqzxcZ1izSY=",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-yP4FEbbp20kvAH9p/Mw/TBUjEKBZA9pzGH4z7afd0i4="
+    }
 }
