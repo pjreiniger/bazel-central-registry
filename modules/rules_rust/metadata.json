@@ -21,7 +21,10 @@
         "github:bazelbuild/rules_rust"
     ],
     "versions": [
-        "0.35.0"
+        "0.35.0",
+        "0.36.2",
+        "0.38.0",
+        "0.39.0"
     ],
     "yanked_versions": {}
 }
