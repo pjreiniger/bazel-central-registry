@@ -1,11 +1,9 @@
 {
-    "homepage": "https://gitlab.arm.com/bazel/ape",
+    "homepage": "https://gitlab.arm.com/bazel/rules_diff",
     "repository": [
-        "https://gitlab.arm.com/bazel/ape"
+        "https://gitlab.arm.com/bazel/rules_diff"
     ],
     "versions":[
-        "1.0.0-alpha.1",
-        "1.0.0-alpha.2",
         "1.0.0-alpha.3"
     ],
     "maintainers": [
