@@ -5,7 +5,8 @@
         "github:bzlmodRio/bzlmodrio-choreolib"
     ],
     "versions": [
-        "2024.1.2"
+        "2024.1.2",
+        "2024.1.3"
     ],
     "yanked_versions": {}
 }
