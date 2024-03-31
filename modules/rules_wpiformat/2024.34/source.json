@@ -1,0 +1,8 @@
+{
+    "url": "https://github.com/bzlmodRio/rules_wpiformat/releases/download/2024.34/rules_wpiformat-2024.34.tar.gz",
+    "integrity": "sha256-BKz4SAHiebqeRNrIvbX+An+3XrXowju8VuA2gEpvpeQ=",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-9CTNbn6vgfr3MeK+wXct7BN4SsYsYh2LbCpRyY07IQ8="
+    }
+}
