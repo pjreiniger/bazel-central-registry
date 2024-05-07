@@ -1,0 +1,11 @@
+{
+    "homepage": "",
+    "maintainers": [],
+    "repository": [
+        "github:bzlmodRio/rules_bzlmodrio_jdk"
+    ],
+    "versions": [
+        "17.0.8-7"
+    ],
+    "yanked_versions": {}
+}

@@ -1,0 +1,12 @@
+{
+    "homepage": "",
+    "maintainers": [],
+    "repository": [
+        "github:bzlmodRio/rules_bzlmodrio_toolchains"
+    ],
+    "versions": [
+        "2023-7",
+        "2024-1"
+    ],
+    "yanked_versions": {}
+}

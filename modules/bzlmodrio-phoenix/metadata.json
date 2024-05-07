@@ -1,0 +1,21 @@
+{
+    "homepage": "",
+    "maintainers": [],
+    "repository": [
+        "github:bzlmodRio/bzlmodrio-phoenix"
+    ],
+    "versions": [
+        "5.30.4",
+        "5.31.0-23.2.1",
+        "5.31.0-23.2.2",
+        "5.32.0-beta-1",
+        "5.32.0-beta-2",
+        "5.32.0-beta-3",
+        "5.32.0-beta-4",
+        "5.32.0-beta-4.bcr1",
+        "5.32.0-beta-5",
+        "5.33.0",
+        "5.33.1"
+    ],
+    "yanked_versions": {}
+}

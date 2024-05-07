@@ -210,7 +210,7 @@ def main(argv=None):
   log(f"{module.name} {module.version} is added into the registry.")
 
   log(f"Running ./tools/bcr_validation.py --check={module.name}@{module.version} --fix")
-  bcr_validation.main([f"--check={module.name}@{module.version}", "--fix"])
+  bcr_validation.main([f"--check={module.name}@{module.version}", "--fix", f"--registry={args.registry}"])
 
 
 if __name__ == "__main__":

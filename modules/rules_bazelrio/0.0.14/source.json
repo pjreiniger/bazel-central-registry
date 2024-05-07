@@ -1,0 +1,8 @@
+{
+    "url": "https://github.com/bzlmodRio/rules_bazelrio/releases/download/0.0.14/rules_bazelrio-0.0.14.tar.gz",
+    "integrity": "sha256-DFqYR2rFtgZomGO3ue8/fWhcR84mgeRIypd+jpXeMcE=",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-FPd6CZmaPDIlZDaH9seo+R/2vRHDs+awX0Ut4sJd9vQ="
+    }
+}

@@ -55,6 +55,7 @@ def download(url):
   else:
     req = urllib.request.Request(url, headers=headers)
 
+  print(url)
   with urllib.request.urlopen(req) as response:
     return response.read()
 

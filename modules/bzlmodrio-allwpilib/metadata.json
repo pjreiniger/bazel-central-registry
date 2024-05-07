@@ -1,0 +1,22 @@
+{
+    "homepage": "",
+    "maintainers": [],
+    "repository": [
+        "github:bzlmodRio/bzlmodrio-allwpilib"
+    ],
+    "versions": [
+        "2023.3.2",
+        "2023.4.1",
+        "2023.4.2",
+        "2023.4.3",
+        "2024.1.1-beta-1",
+        "2024.1.1-beta-2",
+        "2024.1.1-beta-3",
+        "2024.1.1-beta-4",
+        "2024.1.1",
+        "2024.2.1",
+        "2024.3.1",
+        "2024.3.2"
+    ],
+    "yanked_versions": {}
+}

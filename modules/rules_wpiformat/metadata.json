@@ -1,0 +1,12 @@
+{
+    "homepage": "",
+    "maintainers": [],
+    "repository": [
+        "github:bzlmodRio/rules_wpiformat"
+    ],
+    "versions": [
+        "2022.30",
+        "2024.34"
+    ],
+    "yanked_versions": {}
+}
