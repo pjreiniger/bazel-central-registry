@@ -5,7 +5,8 @@
         "github:bzlmodRio/rules_bzlmodrio_jdk"
     ],
     "versions": [
-        "17.0.8-7"
+        "17.0.8-7",
+        "17.0.8.1-1"
     ],
     "yanked_versions": {}
 }
