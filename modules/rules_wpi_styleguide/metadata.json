@@ -5,7 +5,8 @@
         "github:bzlmodRio/rules_wpi_styleguide"
     ],
     "versions": [
-        "1.0.0"
+        "1.0.0",
+        "2024.06.22"
     ],
     "yanked_versions": {}
 }
