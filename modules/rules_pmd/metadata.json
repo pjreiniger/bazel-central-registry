@@ -1,11 +1,26 @@
 {
-    "homepage": "",
-    "maintainers": [],
+    "homepage": "https://github.com/buildfoundation/bazel_rules_pmd",
+    "maintainers": [
+        {
+            "email": "ben@ben.cm",
+            "github": "Bencodes",
+            "name": "Ben Lee"
+        },
+        {
+            "email": "ceo@artemzin.com",
+            "github": "artem-zinnatullin ",
+            "name": "Artem Zinnatullin"
+        }
+    ],
     "repository": [
-        "github:bzlmodRio/rules_pmd"
+        "github:buildfoundation/bazel_rules_pmd"
     ],
     "versions": [
+        "0.4.0",
+        "0.4.1",
         "6.43.0"
     ],
-    "yanked_versions": {}
+    "yanked_versions": {
+        "6.43.0": "Please use a real release."
+    }
 }
