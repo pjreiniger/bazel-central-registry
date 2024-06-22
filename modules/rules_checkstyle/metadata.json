@@ -5,7 +5,8 @@
         "github:bzlmodRio/rules_checkstyle"
     ],
     "versions": [
-        "10.1"
+        "10.1",
+        "10.12.2"
     ],
     "yanked_versions": {}
 }
