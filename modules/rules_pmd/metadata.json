@@ -20,7 +20,5 @@
         "0.4.1",
         "6.43.0"
     ],
-    "yanked_versions": {
-        "6.43.0": "Please use a real release."
-    }
+    "yanked_versions": {}
 }
