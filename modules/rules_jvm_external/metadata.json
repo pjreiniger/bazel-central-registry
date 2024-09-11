@@ -3,17 +3,17 @@
     "maintainers": [
         {
             "email": "",
-            "github": "@jin",
+            "github": "jin",
             "name": "Jingwen Chen"
         },
         {
             "email": "simon.m.stewart@gmail.com",
-            "github": "@shs96c",
+            "github": "shs96c",
             "name": "Simon Stewart"
         },
         {
             "email": "",
-            "github": "@cheister",
+            "github": "cheister",
             "name": "Chris Heisterkamp"
         }
     ],
@@ -27,7 +27,8 @@
         "5.2",
         "5.3",
         "6.0",
-        "6.1"
+        "6.1",
+        "6.2"
     ],
     "yanked_versions": {}
 }
