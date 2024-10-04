@@ -2,14 +2,15 @@
     "homepage": "",
     "maintainers": [],
     "repository": [
-        "github:bzlmodRio/bzlmodrio-ni"
+        "github:wpilibsuite/bzlmodrio-ni"
     ],
     "versions": [
         "2023.3.0",
         "2024.1.0",
         "2024.1.1",
         "2024.2.0",
-        "2024.2.1"
+        "2024.2.1",
+        "2024.2.1.bcr1"
     ],
     "yanked_versions": {}
 }
