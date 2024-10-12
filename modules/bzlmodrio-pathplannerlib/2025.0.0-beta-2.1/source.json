@@ -1,0 +1,8 @@
+{
+    "url": "https://github.com/bzlmodRio/bzlmodrio-pathplannerlib/releases/download/2025.0.0-beta-2.1/bzlmodrio-pathplannerlib-2025.0.0-beta-2.1.tar.gz",
+    "integrity": "sha256-ZmgaVT4pIJD9iF61mYNv5gE5onoGHqrUqf+vFHsYsuw=",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-MAIQlm/HYXhQsvSNWoB1XHaZgXkmpHkGEBoFO7xVcEU="
+    }
+}
