@@ -1,0 +1,14 @@
+--- MODULE.bazel
++++ MODULE.bazel
+@@ -16,11 +16,6 @@
+ use_repo(
+     setup_bzlmodrio_pathplannerlib_cpp_dependencies,
+     "bazelrio_com_pathplanner_lib_pathplannerlib-cpp_headers",
+-    "bazelrio_com_pathplanner_lib_pathplannerlib-cpp_linuxarm32",
+-    "bazelrio_com_pathplanner_lib_pathplannerlib-cpp_linuxarm64",
+-    "bazelrio_com_pathplanner_lib_pathplannerlib-cpp_linuxathena",
+-    "bazelrio_com_pathplanner_lib_pathplannerlib-cpp_linuxx86-64",
+-    "bazelrio_com_pathplanner_lib_pathplannerlib-cpp_windowsx86-64",
+ )
+ 
+ setup_bzlmodrio_pathplannerlib_java_dependencies = use_extension("//:maven_java_deps.bzl", "setup_bzlmodrio_pathplannerlib_java_dependencies")
