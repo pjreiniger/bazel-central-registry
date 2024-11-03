@@ -28,6 +28,7 @@ Validations performed are:
 """
 
 import argparse
+import ast
 import json
 import subprocess
 from pathlib import Path
@@ -285,11 +286,11 @@ class BcrValidator:
                 overlay_src = overlay_dir / overlay_file
                 overlay_dst = source_root / overlay_file
                 try:
-                    overlay_dst.resolve().relative_to(source_root)
-                except ValueError:
+                    overlay_dst.resolve().relative_to(source_root.resolve())
+                except ValueError as e:
                     self.report(
                         BcrValidationResult.FAILED,
-                        f"The overlay file path `{overlay_file}` must point inside the source archive.",
+                        f"The overlay file path `{overlay_file}` must point inside the source archive.\n {e}",
                     )
                     continue
                 try:
@@ -336,6 +337,21 @@ class BcrValidator:
                 self.add_module_dot_bazel_patch(diff, module_name, version)
         else:
             self.report(BcrValidationResult.GOOD, "Checked in MODULE.bazel matches the sources.")
+
+        tree = ast.parse("".join(bcr_module_dot_bazel_content), filename=source_root)
+        for node in tree.body:
+            if (
+                isinstance(node, ast.Expr)
+                and isinstance(node.value, ast.Call)
+                and isinstance(node.value.func, ast.Name)
+                and node.value.func.id == "module"
+            ):
+                keywords = {k.arg: k.value.value for k in node.value.keywords if isinstance(k.value, ast.Constant)}
+                if keywords.get("version", version) != version:
+                    self.report(
+                        BcrValidationResult.FAILED,
+                        "Checked in MODULE.bazel version does not match the version of the module directory added.",
+                    )
 
         shutil.rmtree(tmp_dir)
 

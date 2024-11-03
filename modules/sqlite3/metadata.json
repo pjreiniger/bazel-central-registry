@@ -1,14 +1,17 @@
 {
-  "homepage": "https://sqlite.org/",
-  "maintainers": [
-    {
-      "email": "bcr-maintainers@bazel.build",
-      "name": "No Maintainer Specified"
-    }
-  ],
-  "versions": [
-    "3.42.0",
-    "3.42.0.bcr.1"
-  ],
-  "yanked_versions": {}
+    "homepage": "https://sqlite.org/",
+    "maintainers": [
+        {
+            "email": "john@john-millikin.com",
+            "github": "jmillikin",
+            "name": "John Millikin"
+        }
+    ],
+    "versions": [
+        "3.42.0",
+        "3.42.0.bcr.1",
+        "3.46.1",
+        "3.47.0"
+    ],
+    "yanked_versions": {}
 }
