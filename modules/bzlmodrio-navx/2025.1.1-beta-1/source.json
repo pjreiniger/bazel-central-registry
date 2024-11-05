@@ -1,8 +1,4 @@
 {
     "url": "https://github.com/bzlmodRio/bzlmodrio-navx/releases/download/2025.1.1-beta-1/bzlmodrio-navx-2025.1.1-beta-1.tar.gz",
-    "integrity": "sha256-qqrcb5KmIB64o53JxXS2nWeC2ITxpq2slz83dVURaLA=",
-    "patch_strip": 0,
-    "patches": {
-        "module_dot_bazel.patch": "sha256-Ei7vwVzzbE6vylZDILAHd6JvvA02hXiUDO1ffMMqmA4="
-    }
+    "integrity": "sha256-orG1JOvEu5cFDrxDHXXISxUtaCnWf5KsDliPhaWppgU="
 }
