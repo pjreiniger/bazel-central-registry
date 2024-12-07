@@ -2,11 +2,12 @@
     "homepage": "",
     "maintainers": [],
     "repository": [
-        "github:bzlmodRio/rules_bzlmodrio_jdk"
+        "github:wpilibsuite/rules_bzlmodrio_jdk"
     ],
     "versions": [
         "17.0.8-7",
-        "17.0.8.1-1"
+        "17.0.8.1-1",
+        "17.0.12-7"
     ],
     "yanked_versions": {}
 }
