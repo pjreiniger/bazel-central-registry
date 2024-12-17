@@ -1,8 +1,4 @@
 {
     "url": "https://github.com/bzlmodRio/bzlmodrio-phoenix6/releases/download/25.0.0-beta-4/bzlmodrio-phoenix6-25.0.0-beta-4.tar.gz",
-    "integrity": "sha256-B0qY6P3OGNv5aBYXULv9Vcc2KkOt54WXpjVdouN4GXQ=",
-    "patch_strip": 0,
-    "patches": {
-        "module_dot_bazel.patch": "sha256-4cqZFjknPO0Ogq927su+FS1LkF30KzALrMuJ4GBIZAU="
-    }
+    "integrity": "sha256-B0qY6P3OGNv5aBYXULv9Vcc2KkOt54WXpjVdouN4GXQ="
 }
