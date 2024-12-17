@@ -1,0 +1,8 @@
+{
+    "url": "https://github.com/bzlmodRio/bzlmodrio-phoenix/releases/download/5.34.0-beta-4/bzlmodrio-phoenix-5.34.0-beta-4.tar.gz",
+    "integrity": "sha256-PrwTT0sDg7Kqx34tie2P3CZsl63Zst8VtJH1op3McHU=",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-4cqZFjknPO0Ogq927su+FS1LkF30KzALrMuJ4GBIZAU="
+    }
+}
