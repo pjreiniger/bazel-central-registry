@@ -1,0 +1,8 @@
+{
+    "url": "https://github.com/bzlmodRio/bzlmodrio-photonlib/releases/download/v2025.0.0-beta-6/bzlmodrio-photonlib-v2025.0.0-beta-6.tar.gz",
+    "integrity": "sha256-zbEdO+cVNXtydpKSsEAIsbVEWAiChAHRcaO8Q91xCUM=",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-c3h3ibgAIVw6SwlSA5g5Kb9hphYK/BVcKvpIUqtFtrc="
+    }
+}
