@@ -1,0 +1,8 @@
+{
+    "url": "https://github.com/bzlmodRio/bzlmodrio-allwpilib/releases/download/2025.1.1-beta-3/bzlmodrio-allwpilib-2025.1.1-beta-3.tar.gz",
+    "integrity": "sha256-DmbUZpXZCrYaeie2Jtikx0lseAr4P811lyzRqTuryUA=",
+    "patch_strip": 0,
+    "patches": {
+        "module_dot_bazel.patch": "sha256-b0bpPDAU/JiGRw4nxp83SC7w2zjAfYub2XcMVI/owF8="
+    }
+}
