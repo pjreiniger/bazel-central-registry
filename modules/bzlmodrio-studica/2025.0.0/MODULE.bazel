@@ -1,0 +1,50 @@
+module(
+    name = "bzlmodrio-studica",
+    version = "2025.0.0",
+    compatibility_level = 2025,
+)
+
+bazel_dep(name = "platforms", version = "0.0.9")
+bazel_dep(name = "rules_cc", version = "0.0.9")
+bazel_dep(name = "rules_java", version = "7.6.5")
+bazel_dep(name = "rules_bzlmodrio_toolchains", version = "2025-1.bcr1")
+bazel_dep(name = "bzlmodrio-allwpilib", version = "2025.1.1")
+bazel_dep(name = "bzlmodrio-opencv", version = "2025.4.10.0-3")
+bazel_dep(name = "bzlmodrio-ni", version = "2025.2.0")
+
+setup_bzlmodrio_studica_cpp_dependencies = use_extension("//:maven_cpp_deps.bzl", "setup_bzlmodrio_studica_cpp_dependencies")
+use_repo(
+    setup_bzlmodrio_studica_cpp_dependencies,
+    "bazelrio_com_studica_frc_studica-cpp_headers",
+    "bazelrio_com_studica_frc_studica-cpp_linuxarm32",
+    "bazelrio_com_studica_frc_studica-cpp_linuxarm32static",
+    "bazelrio_com_studica_frc_studica-cpp_linuxarm64",
+    "bazelrio_com_studica_frc_studica-cpp_linuxarm64static",
+    "bazelrio_com_studica_frc_studica-cpp_linuxathena",
+    "bazelrio_com_studica_frc_studica-cpp_linuxathenastatic",
+    "bazelrio_com_studica_frc_studica-cpp_linuxx86-64",
+    "bazelrio_com_studica_frc_studica-cpp_linuxx86-64static",
+    "bazelrio_com_studica_frc_studica-cpp_osxuniversal",
+    "bazelrio_com_studica_frc_studica-cpp_osxuniversalstatic",
+    "bazelrio_com_studica_frc_studica-cpp_windowsx86-64",
+    "bazelrio_com_studica_frc_studica-cpp_windowsx86-64static",
+    "bazelrio_com_studica_frc_studica-driver_headers",
+    "bazelrio_com_studica_frc_studica-driver_linuxarm32",
+    "bazelrio_com_studica_frc_studica-driver_linuxarm32static",
+    "bazelrio_com_studica_frc_studica-driver_linuxarm64",
+    "bazelrio_com_studica_frc_studica-driver_linuxarm64static",
+    "bazelrio_com_studica_frc_studica-driver_linuxathena",
+    "bazelrio_com_studica_frc_studica-driver_linuxathenastatic",
+    "bazelrio_com_studica_frc_studica-driver_linuxx86-64",
+    "bazelrio_com_studica_frc_studica-driver_linuxx86-64static",
+    "bazelrio_com_studica_frc_studica-driver_osxuniversal",
+    "bazelrio_com_studica_frc_studica-driver_osxuniversalstatic",
+    "bazelrio_com_studica_frc_studica-driver_windowsx86-64",
+    "bazelrio_com_studica_frc_studica-driver_windowsx86-64static",
+)
+
+setup_bzlmodrio_studica_java_dependencies = use_extension("//:maven_java_deps.bzl", "setup_bzlmodrio_studica_java_dependencies")
+use_repo(
+    setup_bzlmodrio_studica_java_dependencies,
+    "com_studica_frc_studica_java",
+)
